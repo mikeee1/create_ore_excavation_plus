@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:heated_raw_emerald"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:washed_raw_emerald"
+    }
+  ]
+}

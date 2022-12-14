@@ -2,7 +2,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "harder_raw_materials:cut_raw_emerald"
+      "item": "create_ore_excavation_plus:cut_raw_emerald"
     }
   ],
   "results": [

@@ -2,7 +2,7 @@
   "type": "create:cutting",
   "ingredients": [
     {
-      "item": "createoreexcavation:raw_emerald"
+      "item": "create_ore_excavation_plus:washed_raw_emerald"
     }
   ],
   "results": [

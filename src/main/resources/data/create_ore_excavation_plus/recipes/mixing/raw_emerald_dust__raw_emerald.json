@@ -1,0 +1,58 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    },
+    {
+      "item": "create_ore_excavation_plus:raw_emerald_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "createoreexcavation:raw_emerald"
+    }
+  ]
+}
