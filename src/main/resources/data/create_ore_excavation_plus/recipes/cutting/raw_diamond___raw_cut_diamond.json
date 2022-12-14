@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "createoreexcavation:raw_diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:cut_raw_diamond"
+    }
+  ]
+}

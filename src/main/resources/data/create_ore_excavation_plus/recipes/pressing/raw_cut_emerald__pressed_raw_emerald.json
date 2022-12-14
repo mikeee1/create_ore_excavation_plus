@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "harder_raw_materials:cut_raw_emerald"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:pressed_raw_emerald"
+    }
+  ]
+}

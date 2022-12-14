@@ -1,0 +1,10 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "Raw Cut Diamond",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "Pressed Raw Diamond",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "Raw Cut Emerald",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "Pressed Raw Emerald",
+
+
+
+  "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab"
+}

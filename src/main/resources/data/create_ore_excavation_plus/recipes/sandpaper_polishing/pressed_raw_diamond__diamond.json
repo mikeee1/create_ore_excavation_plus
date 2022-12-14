@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:pressed_raw_diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ]
+}
