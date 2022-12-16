@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "create_ore_excavation_plus:haunted_raw_netherite_scrap"
+  },
+  "result": "create_ore_excavation_plus:fired_netherite_scrap"
+}

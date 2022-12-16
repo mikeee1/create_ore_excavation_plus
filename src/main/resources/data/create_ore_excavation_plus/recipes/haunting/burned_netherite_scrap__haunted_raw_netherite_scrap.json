@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:burned_netherite_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:haunted_raw_netherite_scrap"
+    }
+  ]
+}

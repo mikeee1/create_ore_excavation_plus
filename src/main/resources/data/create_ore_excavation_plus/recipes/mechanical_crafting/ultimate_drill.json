@@ -1,0 +1,43 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "A": {
+      "item": "createoreexcavation:netherite_drill"
+    },
+    "B": {
+      "item": "createoreexcavation:diamond_drill"
+    },
+    "C": {
+      "item": "createoreexcavation:drill"
+    },
+    "D": {
+      "item": "minecraft:lava_bucket"
+    },
+    "E": {
+      "item": "create:andesite_alloy"
+    },
+    "F": {
+      "item": "create:precision_mechanism"
+    },
+    "G": {
+      "item": "minecraft:obsidian"
+    },
+    "H": {
+      "item": "minecraft:diamond"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/brass"
+    }
+  },
+  "pattern": [
+    "IHGEF",
+    "HGECE",
+    "GEBEG",
+    "EAEGH",
+    "DEGHI"
+  ],
+  "result": {
+    "item": "create_ore_excavation_plus:ultimate_drill"
+  }
+}

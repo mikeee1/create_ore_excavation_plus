@@ -1,0 +1,23 @@
+{
+  "type": "createoreexcavation:drilling",
+  "amountMax": 3.0,
+  "amountMin": 1.0,
+  "biomeWhitelist": "minecraft:is_nether",
+  "drill": {
+    "item": "create_ore_excavation_plus:ultimate_drill"
+  },
+  "fluid": {
+    "amount": 500,
+    "fluid": "minecraft:lava",
+    "nbt": {}
+  },
+  "name": "{\"translate\":\"item.create_ore_excavation_plus.raw_netherite_scrap\"}",
+  "output": [
+    {
+      "item": "create_ore_excavation_plus:raw_netherite_scrap"
+    }
+  ],
+  "stress": 2048,
+  "ticks": 1000,
+  "weight": 1
+}

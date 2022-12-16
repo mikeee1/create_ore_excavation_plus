@@ -32,6 +32,18 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> washed_raw_emerald = ITEMS.register("washed_raw_emerald",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> raw_netherite_scrap = ITEMS.register("raw_netherite_scrap",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> burned_netherite_scrap = ITEMS.register("burned_netherite_scrap",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> haunted_raw_netherite_scrap = ITEMS.register("haunted_raw_netherite_scrap",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> fired_netherite_scrap = ITEMS.register("fired_netherite_scrap",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> lavad_netherite_scrap = ITEMS.register("lavad_netherite_scrap",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> ultimate_drill = ITEMS.register("ultimate_drill",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
 
 
     public static void register(IEventBus eventBus) {

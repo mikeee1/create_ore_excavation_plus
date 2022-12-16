@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:fired_netherite_scrap"
+    },
+    {
+      "amount": 750,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:lavad_netherite_scrap"
+    }
+  ]
+}

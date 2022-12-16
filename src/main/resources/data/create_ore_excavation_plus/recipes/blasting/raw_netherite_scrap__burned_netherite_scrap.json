@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "create_ore_excavation_plus:raw_netherite_scrap"
+  },
+  "result": "create_ore_excavation_plus:burned_netherite_scrap"
+}
