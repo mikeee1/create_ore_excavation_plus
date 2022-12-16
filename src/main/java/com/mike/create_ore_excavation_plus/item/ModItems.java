@@ -44,6 +44,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> ultimate_drill = ITEMS.register("ultimate_drill",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
+    public static final RegistryObject<Item> crushed_redstone = ITEMS.register("crushed_redstone",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
 
 
     public static void register(IEventBus eventBus) {

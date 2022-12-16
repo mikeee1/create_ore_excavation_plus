@@ -2,52 +2,8 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
-    },
-    {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "item": "create_ore_excavation_plus:raw_diamond_dust",
+      "count": 16
     }
   ],
   "results": [

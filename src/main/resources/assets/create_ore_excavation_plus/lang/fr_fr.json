@@ -1,0 +1,22 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "Diamant Taillé Brut",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "Diamant Brut Pressé",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "Émeraude Taillée Brute",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "Émeraude Taillée Brute",
+  "item.create_ore_excavation_plus.heated_raw_diamond": "Diamant Brut Chauffé",
+  "item.create_ore_excavation_plus.raw_diamond_dust": "Poussière De Diamant",
+  "item.create_ore_excavation_plus.washed_raw_diamond": "Diamant Brut Lavé",
+  "item.create_ore_excavation_plus.heated_raw_emerald": "Émeraude Brute Chauffée",
+  "item.create_ore_excavation_plus.raw_emerald_dust": "Poussière D'Émeraude",
+  "item.create_ore_excavation_plus.washed_raw_emerald": "Émeraude Brute Lavée",
+  "item.create_ore_excavation_plus.burned_netherite_scrap": "Fragments Brûlés De Netherite",
+  "item.create_ore_excavation_plus.raw_netherite_scrap": "Fragments Bruts De Netherite",
+  "item.create_ore_excavation_plus.ultimate_drill": "Forage Ultime",
+  "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "Fragments Bruts Hantés De Netherite",
+  "item.create_ore_excavation_plus.fired_netherite_scrap": "Fragments Tirés de Netherite",
+  "item.create_ore_excavation_plus.lavad_netherite_scrap": "Fragments De Lave De Netherite",
+
+
+
+  "itemGroup.create_ore_excavation_plus_tab": "Créer un onglet Plus d'excavation de minerai"
+}

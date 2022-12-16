@@ -1,0 +1,22 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "Ruwe Gesneden Diamant",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "Gedrukte Ruwe Diamant",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "Ruwe Gesneden Smaragd",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "Gedrukte Ruwe Emerald",
+  "item.create_ore_excavation_plus.heated_raw_diamond": "Verwarmde Ruwe Diamant",
+  "item.create_ore_excavation_plus.raw_diamond_dust": "Diamante Stof",
+  "item.create_ore_excavation_plus.washed_raw_diamond": "Gewaste Ruwe Diamant",
+  "item.create_ore_excavation_plus.heated_raw_emerald": "Verwarmde Ruwe Smaragd",
+  "item.create_ore_excavation_plus.raw_emerald_dust": "Smaragd Stof",
+  "item.create_ore_excavation_plus.washed_raw_emerald": "Gewaste Ruwe Diamant",
+  "item.create_ore_excavation_plus.burned_netherite_scrap": "Verbrande Netherietschroot",
+  "item.create_ore_excavation_plus.raw_netherite_scrap": "Ruwe Netherietschroot",
+  "item.create_ore_excavation_plus.ultimate_drill": "Ultieme Boor",
+  "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "Behekst Ruwe Netherietschroot",
+  "item.create_ore_excavation_plus.fired_netherite_scrap": "Gevuur'de Netherietschroot",
+  "item.create_ore_excavation_plus.lavad_netherite_scrap": "Gelava'de Netherietschroot",
+
+
+
+  "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab"
+}
