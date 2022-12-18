@@ -1,5 +1,6 @@
 {
   "type": "create:mixing",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
       "item": "create_ore_excavation_plus:raw_emerald_dust"
