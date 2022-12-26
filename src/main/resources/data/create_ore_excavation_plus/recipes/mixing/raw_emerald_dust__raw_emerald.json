@@ -3,52 +3,52 @@
   "heatRequirement": "superheated",
   "ingredients": [
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     },
     {
-      "item": "create_ore_excavation_plus:raw_emerald_dust"
+      "tag": "forge:dusts/emerald"
     }
   ],
   "results": [

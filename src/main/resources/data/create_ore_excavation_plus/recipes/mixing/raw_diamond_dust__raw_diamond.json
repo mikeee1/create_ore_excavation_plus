@@ -3,52 +3,52 @@
   "heatRequirement": "superheated",
   "ingredients": [
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     },
     {
-      "item": "create_ore_excavation_plus:raw_diamond_dust"
+      "tag": "forge:dusts/diamond"
     }
   ],
   "results": [
