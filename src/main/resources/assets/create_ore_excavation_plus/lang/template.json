@@ -1,1 +1,23 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "",
+  "item.create_ore_excavation_plus.heated_raw_diamond": "",
+  "item.create_ore_excavation_plus.raw_diamond_dust": "",
+  "item.create_ore_excavation_plus.washed_raw_diamond": "",
+  "item.create_ore_excavation_plus.heated_raw_emerald": "",
+  "item.create_ore_excavation_plus.raw_emerald_dust": "",
+  "item.create_ore_excavation_plus.washed_raw_emerald": "",
+  "item.create_ore_excavation_plus.burned_netherite_scrap": "",
+  "item.create_ore_excavation_plus.raw_netherite_scrap": "",
+  "item.create_ore_excavation_plus.ultimate_drill": "",
+  "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "",
+  "item.create_ore_excavation_plus.fired_netherite_scrap": "",
+  "item.create_ore_excavation_plus.lavad_netherite_scrap": "",
+  "item.create_ore_excavation_plus.crushed_redstone": "",
 
+
+
+  "itemGroup.create_ore_excavation_plus_tab": ""
+}
