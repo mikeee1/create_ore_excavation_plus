@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "create_ore_excavation_plus:experience_items"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:enchanted_lapis_lazuli",
+      "count": 4
+    }
+  ]
+}

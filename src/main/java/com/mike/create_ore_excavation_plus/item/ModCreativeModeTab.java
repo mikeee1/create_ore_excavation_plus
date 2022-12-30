@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab create_ore_excavation_plus_tab = new CreativeModeTab("create_ore_excavation_plus_tab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.cut_raw_diamond.get());
+            return new ItemStack(ModItems.ultimate_drill.get());
         }
     };
 }

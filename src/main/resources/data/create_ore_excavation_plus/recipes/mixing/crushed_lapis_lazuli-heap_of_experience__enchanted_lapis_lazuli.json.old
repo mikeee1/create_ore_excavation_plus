@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_sa"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_sa:heap_of_experience"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    },
+    {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_ore_excavation_plus:enchanted_lapis_lazuli",
+      "count": 4
+    }
+  ]
+}

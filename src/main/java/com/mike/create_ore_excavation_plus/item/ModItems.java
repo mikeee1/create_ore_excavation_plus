@@ -3,6 +3,7 @@ package com.mike.create_ore_excavation_plus.item;
 import com.mike.create_ore_excavation_plus.create_ore_excavation_plus;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -46,6 +47,12 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
     public static final RegistryObject<Item> crushed_redstone = ITEMS.register("crushed_redstone",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> raw_lapis_lazuli = ITEMS.register("raw_lapis_lazuli",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> crushed_lapis_lazuli = ITEMS.register("crushed_lapis_lazuli",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
+    public static final RegistryObject<Item> enchanted_lapis_lazuli = ITEMS.register("enchanted_lapis_lazuli",
+            () -> new EnchantedLapisLazuliItem(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
 
 
     public static void register(IEventBus eventBus) {

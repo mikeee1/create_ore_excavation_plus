@@ -1,0 +1,14 @@
+{
+  "values": [
+    "create:experience_nugget",
+    "minecraft:experience_bottle",
+    {
+      "id": "create_things_and_misc:experience_sheet",
+      "required": false
+    },
+    {
+      "id": "create_sa:heap_of_experience",
+      "required": false
+    }
+  ]
+}
