@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T14:43:28.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="GBBlEnTVS7oCBcar69H4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T14:53:28.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="qEj8CQzHubmzbaWwGaJH" type="github">
   <diagram id="yk44wyMy3r-oosHftqjJ" name="Page-1">
     <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-14" value="obtain raw netherite scrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3vS1CBYwhwdLSXhmkdt-18" value="obtain a raw ore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3vS1CBYwhwdLSXhmkdt-18" value="obtain all raw ore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
