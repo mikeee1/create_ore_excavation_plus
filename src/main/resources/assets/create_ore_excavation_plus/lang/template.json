@@ -19,5 +19,22 @@
 
 
 
-  "itemGroup.create_ore_excavation_plus_tab": ""
+  "itemGroup.create_ore_excavation_plus_tab": "",
+
+
+  "_": "<--- advancements --->",
+  "advancement.create_ore_excavation_plus.vein_finder": "",
+  "advancement.create_ore_excavation_plus.vein_finder.desc": "",
+  "advancement.create_ore_excavation_plus.drilling_machine": "",
+  "advancement.create_ore_excavation_plus.drilling_machine.desc": "",
+  "advancement.create_ore_excavation_plus.extractor": "",
+  "advancement.create_ore_excavation_plus.extractor.desc": "",
+  "advancement.create_ore_excavation_plus.diamond_drill": "",
+  "advancement.create_ore_excavation_plus.diamond_drill.desc": "",
+  "advancement.create_ore_excavation_plus.raw_ore": "",
+  "advancement.create_ore_excavation_plus.raw_ore.desc": "",
+  "advancement.create_ore_excavation_plus.ultimate_drill": "",
+  "advancement.create_ore_excavation_plus.ultimate_drill.desc": "",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap.desc": "",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap": ""
 }
