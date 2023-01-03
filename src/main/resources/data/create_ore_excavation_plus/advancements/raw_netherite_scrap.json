@@ -1,15 +1,15 @@
 {
-  "parent": "create_ore_excavation_plus:vein_finder",
+  "parent": "create_ore_excavation_plus:ultimate_drill",
   "display": {
     "icon": {
-      "item": "createoreexcavation:drilling_machine"
+      "item": "create_ore_excavation_plus:raw_netherite_scrap"
     },
     "title": {
-      "translate": "advancement.create_ore_excavation_plus.drilling_machine"
+      "translate": "advancement.create_ore_excavation_plus.raw_netherite_scrap"
     },
     "description": {
       "color": "#DBA213",
-      "translate": "advancement.create_ore_excavation_plus.drilling_machine.desc"
+      "translate": "advancement.create_ore_excavation_plus.raw_netherite_scrap.desc"
     },
     "frame": "task",
     "show_toast": true,
@@ -23,7 +23,7 @@
         "items": [
           {
             "items": [
-              "createoreexcavation:drilling_machine"
+              "create_ore_excavation_plus:raw_netherite_scrap"
             ]
           }
         ]

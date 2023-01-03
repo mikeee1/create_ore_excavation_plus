@@ -10,6 +10,10 @@
       "item": "create_ore_excavation_plus:crushed_lapis_lazuli"
     },
     {
+      "item": "create_ore_excavation_plus:crushed_lapis_lazuli",
+      "chance": 0.5
+    },
+    {
       "item": "create:experience_nugget",
       "chance": 0.80
     }

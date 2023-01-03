@@ -13,11 +13,11 @@
   "results": [
     {
       "item": "create_ore_excavation_plus:heated_raw_emerald",
-      "chance": 0.2
+      "chance": 0.25
     },
     {
       "item": "create_ore_excavation_plus:raw_emerald_dust",
-      "chance": 0.8
+      "chance": 0.75
     }
   ]
 }

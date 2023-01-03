@@ -13,6 +13,9 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, create_ore_excavation_plus.MOD_ID);
 
+    public static final RegistryObject<Item> ultimate_drill = ITEMS.register("ultimate_drill",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
+
     public static final RegistryObject<Item> cut_raw_diamond = ITEMS.register("cut_raw_diamond",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> heated_raw_diamond = ITEMS.register("heated_raw_diamond",
@@ -43,8 +46,7 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> lavad_netherite_scrap = ITEMS.register("lavad_netherite_scrap",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
-    public static final RegistryObject<Item> ultimate_drill = ITEMS.register("ultimate_drill",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
+
     public static final RegistryObject<Item> crushed_redstone = ITEMS.register("crushed_redstone",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> raw_lapis_lazuli = ITEMS.register("raw_lapis_lazuli",

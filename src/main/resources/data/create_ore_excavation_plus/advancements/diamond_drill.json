@@ -1,15 +1,15 @@
 {
-  "parent": "create_ore_excavation_plus:vein_finder",
+  "parent": "create_ore_excavation_plus:drilling_machine",
   "display": {
     "icon": {
-      "item": "createoreexcavation:drilling_machine"
+      "item": "createoreexcavation:diamond_drill"
     },
     "title": {
-      "translate": "advancement.create_ore_excavation_plus.drilling_machine"
+      "translate": "advancement.create_ore_excavation_plus.diamond_drill"
     },
     "description": {
       "color": "#DBA213",
-      "translate": "advancement.create_ore_excavation_plus.drilling_machine.desc"
+      "translate": "advancement.create_ore_excavation_plus.diamond_drill.desc"
     },
     "frame": "task",
     "show_toast": true,
@@ -23,7 +23,7 @@
         "items": [
           {
             "items": [
-              "createoreexcavation:drilling_machine"
+              "createoreexcavation:diamond_drill"
             ]
           }
         ]
