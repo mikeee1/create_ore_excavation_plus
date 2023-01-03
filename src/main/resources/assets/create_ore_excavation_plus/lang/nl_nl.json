@@ -2,7 +2,7 @@
   "item.create_ore_excavation_plus.cut_raw_diamond": "Ruwe Gesneden Diamant",
   "item.create_ore_excavation_plus.pressed_raw_diamond": "Gedrukte Ruwe Diamant",
   "item.create_ore_excavation_plus.cut_raw_emerald": "Ruwe Gesneden Smaragd",
-  "item.create_ore_excavation_plus.pressed_raw_emerald": "Gedrukte Ruwe Emerald",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "Gedrukte Ruwe Smaragd",
   "item.create_ore_excavation_plus.heated_raw_diamond": "Verwarmde Ruwe Diamant",
   "item.create_ore_excavation_plus.raw_diamond_dust": "Diamante Stof",
   "item.create_ore_excavation_plus.washed_raw_diamond": "Gewaste Ruwe Diamant",
@@ -15,8 +15,28 @@
   "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "Behekst Ruwe Netherietschroot",
   "item.create_ore_excavation_plus.fired_netherite_scrap": "Gevuur'de Netherietschroot",
   "item.create_ore_excavation_plus.lavad_netherite_scrap": "Gelava'de Netherietschroot",
+  "item.create_ore_excavation_plus.crushed_redstone": "Gemalen Redstone",
+  "item.create_ore_excavation_plus.raw_lapis_lazuli": "Ruwe Lapis Lazuli",
+  "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Gemalen Lapis Lazuli",
+  "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Betoverde Lapis Lazuli",
 
 
+  "itemGroup.create_ore_excavation_plus_tab": "Create Erts Uitgraving Plus",
+  
 
-  "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab"
+  "_": "<--- advancements --->",
+  "advancement.create_ore_excavation_plus.vein_finder": "Ertsaders?",
+  "advancement.create_ore_excavation_plus.vein_finder.desc": "Maak een ertsader vinder",
+  "advancement.create_ore_excavation_plus.drilling_machine": "Laten we boren",
+  "advancement.create_ore_excavation_plus.drilling_machine.desc": "Maak een Boor Machine",
+  "advancement.create_ore_excavation_plus.extractor": "Laten we vloeistoffen extracten",
+  "advancement.create_ore_excavation_plus.extractor.desc": "Maak een vloeistofbron extractor",
+  "advancement.create_ore_excavation_plus.diamond_drill": "Het is diamant?",
+  "advancement.create_ore_excavation_plus.diamond_drill.desc": "Maak een diamante boor",
+  "advancement.create_ore_excavation_plus.raw_ore": "Ik zei medium-well!",
+  "advancement.create_ore_excavation_plus.raw_ore.desc": "Krijg een ruwe erts",
+  "advancement.create_ore_excavation_plus.ultimate_drill": "De Ultieme?",
+  "advancement.create_ore_excavation_plus.ultimate_drill.desc": "Maak een Ultieme Boor",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap.desc": "Krijg Ruwe Netherietschroot",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap": "♬ Netheriet ♬"
 }
