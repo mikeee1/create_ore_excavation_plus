@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T14:33:18.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Mczd_xWTtW_4cUmmmtfk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T14:43:28.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="GBBlEnTVS7oCBcar69H4" type="github">
   <diagram id="yk44wyMy3r-oosHftqjJ" name="Page-1">
-    <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3vS1CBYwhwdLSXhmkdt-1" target="T3vS1CBYwhwdLSXhmkdt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vS1CBYwhwdLSXhmkdt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3vS1CBYwhwdLSXhmkdt-1" target="T3vS1CBYwhwdLSXhmkdt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-1" value="make drill machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,9 +28,6 @@
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3vS1CBYwhwdLSXhmkdt-4" target="T3vS1CBYwhwdLSXhmkdt-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3vS1CBYwhwdLSXhmkdt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T3vS1CBYwhwdLSXhmkdt-4" target="T3vS1CBYwhwdLSXhmkdt-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-4" value="make ore finder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,11 +37,17 @@
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-5" value="make diamond drill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T3vS1CBYwhwdLSXhmkdt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3vS1CBYwhwdLSXhmkdt-6" target="T3vS1CBYwhwdLSXhmkdt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T3vS1CBYwhwdLSXhmkdt-6" value="make ultimate drill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T3vS1CBYwhwdLSXhmkdt-14" value="find netherite???" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="T3vS1CBYwhwdLSXhmkdt-14" value="obtain raw netherite scrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vS1CBYwhwdLSXhmkdt-18" value="obtain a raw ore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
