@@ -15,7 +15,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> ultimate_drill = ITEMS.register("ultimate_drill",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
-
+    public static final RegistryObject<Item> tin_snips = ITEMS.register("tin_snips",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
+    public static final RegistryObject<Item> netherite_snips = ITEMS.register("tin_snips_n2",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab).stacksTo(1)));
     public static final RegistryObject<Item> cut_raw_diamond = ITEMS.register("cut_raw_diamond",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.create_ore_excavation_plus_tab)));
     public static final RegistryObject<Item> heated_raw_diamond = ITEMS.register("heated_raw_diamond",
