@@ -73,7 +73,7 @@ This is a sub mod for the Create Ore Excavation mod that makes it harder to get 
 [[dependencies.create_ore_excavation_plus]]
     modId="createoreexcavation"
     mandatory=true
-    versionRange="[0.3.1,]"
+    versionRange="[1.0.0,]"
     ordering="AFTER"
     side="BOTH"
 
