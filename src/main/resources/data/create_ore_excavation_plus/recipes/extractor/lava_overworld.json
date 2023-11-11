@@ -1,18 +1,14 @@
 {
   "type": "createoreexcavation:extracting",
-  "amountMax": 2.0,
-  "amountMin": 1.0,
-  "biomeWhitelist": "minecraft:is_overworld",
   "drill": {
     "tag": "create_ore_excavation_plus:powerfull_drills"
   },
-  "name": "{\"translate\":\"block.minecraft.lava\"}",
-  "neverFinite": true,
   "output": {
     "amount": 500,
     "fluid": "minecraft:lava"
   },
+  "priority": 0,
   "stress": 256,
   "ticks": 250,
-  "weight": 4
+  "vein_id": "create_ore_excavation_plus:ore_vein_type/lava_overworld_vein"
 }

@@ -24,6 +24,9 @@
 
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab",
 
+  "vein.create_ore_excavation_plus.lava_nether": "Lava Nether",
+  "vein.create_ore_excavation_plus.lava_overworld": "Lava Overworld",
+
 
   "_": "<--- advancements --->",
   "advancement.create_ore_excavation_plus.vein_finder": "Veins?",

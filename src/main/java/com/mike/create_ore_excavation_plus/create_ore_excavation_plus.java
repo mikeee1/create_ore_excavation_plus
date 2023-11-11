@@ -1,5 +1,6 @@
 package com.mike.create_ore_excavation_plus;
 
+import com.mike.create_ore_excavation_plus.item.ModCreativeModeTabs;
 import com.mike.create_ore_excavation_plus.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,6 +23,7 @@ public class create_ore_excavation_plus
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModCreativeModeTabs.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
