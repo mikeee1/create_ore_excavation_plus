@@ -19,11 +19,7 @@
   "item.create_ore_excavation_plus.raw_lapis_lazuli": "Ruwe Lapis Lazuli",
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Gemalen Lapis Lazuli",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Betoverde Lapis Lazuli",
-
-
   "itemGroup.create_ore_excavation_plus_tab": "Create Erts Uitgraving Plus",
-  
-
   "_": "<--- advancements --->",
   "advancement.create_ore_excavation_plus.vein_finder": "Ertsaders?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Maak een ertsader vinder",
