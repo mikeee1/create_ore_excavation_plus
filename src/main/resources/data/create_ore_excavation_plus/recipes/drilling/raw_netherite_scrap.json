@@ -14,10 +14,23 @@
   "name": "{\"translate\":\"item.create_ore_excavation_plus.raw_netherite_scrap\"}",
   "output": [
     {
+      "chance": 0.2,
       "item": "create_ore_excavation_plus:raw_netherite_scrap"
+    },
+    {
+      "chance": 0.8,
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "chance": 0.8,
+      "item": "minecraft:netherrack"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:magma_block"
     }
   ],
   "stress": 2048,
-  "ticks": 1024,
+  "ticks": 4000,
   "weight": 1
 }
