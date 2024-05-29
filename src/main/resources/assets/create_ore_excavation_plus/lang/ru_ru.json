@@ -1,0 +1,46 @@
+{
+  "item.create_ore_excavation_plus.cut_raw_diamond": "Сырой огранённый алмаз",
+  "item.create_ore_excavation_plus.pressed_raw_diamond": "Спресованный сырой алмаз",
+  "item.create_ore_excavation_plus.cut_raw_emerald": "Сырой огранённый изумруд",
+  "item.create_ore_excavation_plus.pressed_raw_emerald": "Спресованный сырой изумруд",
+  "item.create_ore_excavation_plus.heated_raw_diamond": "Нагретый сырой алмаз",
+  "item.create_ore_excavation_plus.raw_diamond_dust": "Алмазнвя пыль",
+  "item.create_ore_excavation_plus.washed_raw_diamond": "Промытый сырой алмаз",
+  "item.create_ore_excavation_plus.heated_raw_emerald": "Нагретый сырой изумруд",
+  "item.create_ore_excavation_plus.raw_emerald_dust": "Изумрудная пыль",
+  "item.create_ore_excavation_plus.washed_raw_emerald": "Промытый сырой алмаз",
+  "item.create_ore_excavation_plus.burned_netherite_scrap": "Обажженый незеритовый лом",
+  "item.create_ore_excavation_plus.raw_netherite_scrap": "Сырой незеритовый лом",
+  "item.create_ore_excavation_plus.ultimate_drill": "Ультимативная дрель",
+  "item.create_ore_excavation_plus.haunted_raw_netherite_scrap": "Одержимый сырой незеритовый лом",
+  "item.create_ore_excavation_plus.fired_netherite_scrap": "Обжжёный незеритовый лом",
+  "item.create_ore_excavation_plus.lavad_netherite_scrap": "Оплавленный незеритовый лом",
+  "item.create_ore_excavation_plus.crushed_redstone": "Дроблённая красная пыть",
+  "item.create_ore_excavation_plus.raw_lapis_lazuli": "Сырой лазурит",
+  "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Дроблённый лазурит",
+  "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Зачарованный лазурит",
+
+
+
+  "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab",
+
+  "vein.create_ore_excavation_plus.lava_nether": "Лава незера",
+  "vein.create_ore_excavation_plus.lava_overworld": "Лава верхнего мира",
+
+
+  "_": "<--- advancements --->",
+  "advancement.create_ore_excavation_plus.vein_finder": "Жилы?",
+  "advancement.create_ore_excavation_plus.vein_finder.desc": "Создай искатель жил",
+  "advancement.create_ore_excavation_plus.drilling_machine": "Забурись",
+  "advancement.create_ore_excavation_plus.drilling_machine.desc": "Создай буровую установку",
+  "advancement.create_ore_excavation_plus.extractor": "Пора добыть жидкостей",
+  "advancement.create_ore_excavation_plus.extractor.desc": "Создай экстрактор",
+  "advancement.create_ore_excavation_plus.diamond_drill": "А оно алмазное?",
+  "advancement.create_ore_excavation_plus.diamond_drill.desc": "Создай алмазную дрель",
+  "advancement.create_ore_excavation_plus.raw_ore": "Я сказал средней прожарки!",
+  "advancement.create_ore_excavation_plus.raw_ore.desc": "Получи сырую руду",
+  "advancement.create_ore_excavation_plus.ultimate_drill": "Наилучшее?",
+  "advancement.create_ore_excavation_plus.ultimate_drill.desc": "Создай ультимативную дрель",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap.desc": "Получи сырой незерит",
+  "advancement.create_ore_excavation_plus.raw_netherite_scrap": "♬ Netherite ♬"
+}
