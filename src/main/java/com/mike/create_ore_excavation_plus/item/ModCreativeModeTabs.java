@@ -1,27 +1,20 @@
 package com.mike.create_ore_excavation_plus.item;
 
 import com.mike.create_ore_excavation_plus.create_ore_excavation_plus;
-import com.tterrag.registrate.util.entry.RegistryEntry;
-import it.unimi.dsi.fastutil.objects.ReferenceArrayList;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
-import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.registries.RegistryObject;
+import net.neoforged.bus.api.IEventBus;
+import net.neoforged.neoforge.registries.DeferredHolder;
+import net.neoforged.neoforge.registries.DeferredRegister;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.function.Predicate;
 
 public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, create_ore_excavation_plus.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> CREATE_ORE_EXCAVATION_PLUS_TAB = CREATIVE_MODE_TABS.register("create_ore_excavation_plus_tab",
+    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CREATE_ORE_EXCAVATION_PLUS_TAB = CREATIVE_MODE_TABS.register("create_ore_excavation_plus_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ultimate_drill.get()))
                     .title(Component.translatable("itemGroup.create_ore_excavation_plus_tab"))
                     .displayItems((pParameters, pOutput) -> {

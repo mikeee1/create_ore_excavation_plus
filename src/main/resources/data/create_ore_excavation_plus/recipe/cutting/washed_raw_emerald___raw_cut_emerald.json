@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:washed_raw_emerald"
+    }
+  ],
+  "processing_time": 300,
+  "results": [
+    {
+      "id": "create_ore_excavation_plus:cut_raw_emerald"
+    }
+  ]
+}

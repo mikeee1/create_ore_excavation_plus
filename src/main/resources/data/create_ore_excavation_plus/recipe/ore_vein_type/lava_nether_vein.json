@@ -1,0 +1,17 @@
+{
+  "type": "createoreexcavation:vein",
+  "amountMultiplierMax": 40.0,
+  "amountMultiplierMin": 20.0,
+  "biomeWhitelist": "minecraft:is_nether",
+  "finite": "default",
+  "icon": {
+    "id": "minecraft:lava_bucket"
+  },
+  "name": "{\"translate\":\"vein.create_ore_excavation_plus.lava_nether\"}",
+  "placement": {
+    "salt": 229038507,
+    "separation": 8,
+    "spacing": 128
+  },
+  "priority": 0
+}

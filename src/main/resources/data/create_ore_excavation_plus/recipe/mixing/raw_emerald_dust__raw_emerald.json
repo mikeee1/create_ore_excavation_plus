@@ -1,0 +1,59 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    },
+    {
+      "tag": "c:dusts/emerald"
+    }
+  ],
+  "results": [
+    {
+      "id": "createoreexcavation:raw_emerald"
+    }
+  ]
+}

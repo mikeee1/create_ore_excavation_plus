@@ -1,0 +1,15 @@
+{
+  "type": "createoreexcavation:extracting",
+  "drill": {
+    "tag": "createoreexcavation:drills"
+  },
+  "output": {
+    "amount": 500,
+    "type": "fluid_stack",
+    "id": "minecraft:lava"
+  },
+  "priority": 0,
+  "stress": 192,
+  "ticks": 100,
+  "veinId": "create_ore_excavation_plus:ore_vein_type/lava_nether_vein"
+}

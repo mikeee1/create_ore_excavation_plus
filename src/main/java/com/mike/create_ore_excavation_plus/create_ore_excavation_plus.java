@@ -3,30 +3,45 @@ package com.mike.create_ore_excavation_plus;
 import com.mike.create_ore_excavation_plus.item.ModCreativeModeTabs;
 import com.mike.create_ore_excavation_plus.item.ModItems;
 import com.mojang.logging.LogUtils;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import com.simibubi.create.foundation.data.CreateRegistrate;
+import net.minecraft.client.Minecraft;
+import net.neoforged.api.distmarker.Dist;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.fml.common.EventBusSubscriber;
+import net.neoforged.fml.common.Mod;
+import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
+import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.ModContainer;
+import net.neoforged.neoforge.common.NeoForge;
+import net.neoforged.neoforge.event.server.ServerStartingEvent;
 import org.slf4j.Logger;
 
-// The value here should match an entry in the META-INF/mods.toml file
+// The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(create_ore_excavation_plus.MOD_ID)
 public class create_ore_excavation_plus
 {
     public static final String MOD_ID = "create_ore_excavation_plus";
     private static final Logger LOGGER = LogUtils.getLogger();
-    public create_ore_excavation_plus()
+
+    private static CreateRegistrate registrate;
+
+    public create_ore_excavation_plus(IEventBus modEventBus, ModContainer modContainer)
     {
-        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+//        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        registrate = CreateRegistrate.create(MOD_ID).registerEventListeners(modEventBus);
+
+        modEventBus.addListener(this::commonSetup);
+
+        NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
+    }
 
-        modEventBus.addListener(this::commonSetup);
-        MinecraftForge.EVENT_BUS.register(this);
+    public static CreateRegistrate registrate()
+    {
+        return registrate;
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
@@ -34,14 +49,23 @@ public class create_ore_excavation_plus
 
     }
 
-    // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
-    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
+    // You can use SubscribeEvent and let the Event Bus discover methods to call
+    @SubscribeEvent
+    public void onServerStarting(ServerStartingEvent event)
+    {
+        // Do something when the server starts
+        LOGGER.info("create_ore_excavation_plus is starting up on the server side!");
+    }
+
+    @EventBusSubscriber(modid = MOD_ID, bus = EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ClientModEvents
     {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-            
+            // Some client setup code
+            LOGGER.info("create_ore_excavation_plus is starting up on the client side!");
+            LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
         }
     }
 }

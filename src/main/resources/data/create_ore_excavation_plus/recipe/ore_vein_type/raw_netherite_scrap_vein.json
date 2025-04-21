@@ -1,0 +1,17 @@
+{
+  "type": "createoreexcavation:vein",
+  "amountMultiplierMax": 0.8,
+  "amountMultiplierMin": 0.5,
+  "biomeWhitelist": "minecraft:is_nether",
+  "finite": "default",
+  "icon": {
+    "id": "create_ore_excavation_plus:raw_netherite_scrap"
+  },
+  "name": "{\"translate\":\"item.create_ore_excavation_plus.raw_netherite_scrap\"}",
+  "placement": {
+    "salt": 408736440,
+    "separation": 128,
+    "spacing": 512
+  },
+  "priority": 0
+}

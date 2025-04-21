@@ -1,0 +1,19 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_ore_excavation_plus:enchanted_lapis_lazuli"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:lapis_lazuli"
+    }
+  ]
+}
