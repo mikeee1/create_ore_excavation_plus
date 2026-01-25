@@ -5,9 +5,8 @@
   },
   "output": [
     {
-      "item": {
-        "id": "create_ore_excavation_plus:raw_lapis_lazuli"
-      }
+      "id": "create_ore_excavation_plus:raw_lapis_lazuli"
+
     }
   ],
   "priority": 0,

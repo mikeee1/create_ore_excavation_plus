@@ -4,10 +4,10 @@
     "item": "create_ore_excavation_plus:ultimate_drill"
   },
   "fluid": {
-    "type": "fluid_stack",
     "amount": 1000,
-    "fluid": "minecraft:lava",
-    "nbt": {}
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    }
   },
   "output": [
     {

@@ -5,9 +5,9 @@
   },
   "fluid": {
     "amount": 500,
-    "type": "fluid_stack",
-    "fluid": "minecraft:lava",
-    "nbt": {}
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    }
   },
   "output": [
     {
