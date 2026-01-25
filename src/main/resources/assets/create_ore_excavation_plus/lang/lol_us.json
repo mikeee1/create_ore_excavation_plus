@@ -20,7 +20,7 @@
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Crushd Lapis Lazuli",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Enchantd Lapis Lazuli",
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavashun Plus Tab",
-  "_": "<--- advancements --->",
+
   "advancement.create_ore_excavation_plus.vein_finder": "Viens?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Mak a vein findr",
   "advancement.create_ore_excavation_plus.drilling_machine": "Let's drill",

@@ -19,13 +19,10 @@
   "item.create_ore_excavation_plus.raw_lapis_lazuli": "原始青金石",
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "粉碎的青金石",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "附魔的青金石",
-
   "itemGroup.create_ore_excavation_plus_tab": "Create 礦脈開採 Plus 分類",
-
   "vein.create_ore_excavation_plus.lava_nether": "地獄熔岩礦脈",
   "vein.create_ore_excavation_plus.lava_overworld": "主世界熔岩礦脈",
 
-  "_": "<--- 成就 --->",
   "advancement.create_ore_excavation_plus.vein_finder": "礦脈？",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "製作一個礦脈探測器",
   "advancement.create_ore_excavation_plus.drilling_machine": "開鑽吧",

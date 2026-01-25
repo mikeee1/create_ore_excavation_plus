@@ -19,13 +19,10 @@
   "item.create_ore_excavation_plus.raw_lapis_lazuli": "原石ラピスラズリ",
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "砕かれたラピスラズリ",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "エンチャントされたラピスラズリ",
-
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus タブ",
-
   "vein.create_ore_excavation_plus.lava_nether": "ネザー溶岩鉱脈",
   "vein.create_ore_excavation_plus.lava_overworld": "オーバーワールド溶岩鉱脈",
 
-  "_": "<--- 実績 --->",
   "advancement.create_ore_excavation_plus.vein_finder": "鉱脈？",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "鉱脈検知器を作る",
   "advancement.create_ore_excavation_plus.drilling_machine": "さあ掘ろう",

@@ -20,7 +20,7 @@
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Lapis Lazuli Broyé",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Lapis Lazuli Enchanté",
   "itemGroup.create_ore_excavation_plus_tab": "Créer un onglet \"Ore Excavation Plus\"",
-  "_": "<--- Succés --->",
+
   "advancement.create_ore_excavation_plus.vein_finder": "Veines ?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Crée un détecteur de veines",
   "advancement.create_ore_excavation_plus.drilling_machine": "Partons Forer",

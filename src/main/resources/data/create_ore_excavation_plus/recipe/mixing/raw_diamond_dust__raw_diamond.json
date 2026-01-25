@@ -25,35 +25,12 @@
     },
     {
       "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
-    },
-    {
-      "tag": "c:dusts/diamond"
     }
   ],
   "results": [
     {
-      "id": "createoreexcavation:raw_diamond"
+      "id": "createoreexcavation:raw_diamond",
+      "chance": 0.5
     }
   ]
 }

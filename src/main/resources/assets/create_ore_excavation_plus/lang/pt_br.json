@@ -19,13 +19,8 @@
   "item.create_ore_excavation_plus.raw_lapis_lazuli": "Lápis Lazúli Bruto",
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Lapis Lazuli triturado",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Lápis Lazuli Encantado",
-
-
-
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab",
 
-
-  "_": "<--- Conquistas --->",
   "advancement.create_ore_excavation_plus.vein_finder": "Veias?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Faça um localizador de veias",
   "advancement.create_ore_excavation_plus.drilling_machine": "Vamos Perfurar",

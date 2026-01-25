@@ -19,16 +19,10 @@
   "item.create_ore_excavation_plus.raw_lapis_lazuli": "Raw Lapis Lazuli",
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Crushed Lapis Lazuli",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Enchanted Lapis Lazuli",
-
-
-
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Tab",
-
   "vein.create_ore_excavation_plus.lava_nether": "Lava Nether",
   "vein.create_ore_excavation_plus.lava_overworld": "Lava Overworld",
 
-
-  "_": "<--- advancements --->",
   "advancement.create_ore_excavation_plus.vein_finder": "Veins?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Make a vein finder",
   "advancement.create_ore_excavation_plus.drilling_machine": "Let's drill",

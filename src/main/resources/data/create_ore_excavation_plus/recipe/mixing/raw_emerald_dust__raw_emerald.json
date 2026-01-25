@@ -25,35 +25,12 @@
     },
     {
       "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
-    },
-    {
-      "tag": "c:dusts/emerald"
     }
   ],
   "results": [
     {
-      "id": "createoreexcavation:raw_emerald"
+      "id": "createoreexcavation:raw_emerald",
+      "chance": 0.5
     }
   ]
 }

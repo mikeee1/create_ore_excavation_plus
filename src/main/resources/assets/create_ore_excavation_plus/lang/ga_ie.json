@@ -20,7 +20,7 @@
   "item.create_ore_excavation_plus.crushed_lapis_lazuli": "Brúite Lapis Lazuli",
   "item.create_ore_excavation_plus.enchanted_lapis_lazuli": "Draíocht Lapis Lazuli",
   "itemGroup.create_ore_excavation_plus_tab": "Create Ore Excavation Plus Cluaisín",
-  "_": "<--- advancements --->",
+
   "advancement.create_ore_excavation_plus.vein_finder": "Féitheacha?",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "Déan aimsitheoir vein",
   "advancement.create_ore_excavation_plus.drilling_machine": "Déanaimis druil",

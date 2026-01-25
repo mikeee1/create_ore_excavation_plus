@@ -16,13 +16,8 @@
   "item.create_ore_excavation_plus.fired_netherite_scrap": "",
   "item.create_ore_excavation_plus.lavad_netherite_scrap": "",
   "item.create_ore_excavation_plus.crushed_redstone": "",
-
-
-
   "itemGroup.create_ore_excavation_plus_tab": "",
 
-
-  "_": "<--- advancements --->",
   "advancement.create_ore_excavation_plus.vein_finder": "",
   "advancement.create_ore_excavation_plus.vein_finder.desc": "",
   "advancement.create_ore_excavation_plus.drilling_machine": "",

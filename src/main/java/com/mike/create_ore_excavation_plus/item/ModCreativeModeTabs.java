@@ -1,6 +1,6 @@
 package com.mike.create_ore_excavation_plus.item;
 
-import com.mike.create_ore_excavation_plus.create_ore_excavation_plus;
+import com.mike.create_ore_excavation_plus.CreateOreExcavationPlus;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -12,7 +12,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
-            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, create_ore_excavation_plus.MOD_ID);
+            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, CreateOreExcavationPlus.MOD_ID);
 
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CREATE_ORE_EXCAVATION_PLUS_TAB = CREATIVE_MODE_TABS.register("create_ore_excavation_plus_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ultimate_drill.get()))

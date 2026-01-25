@@ -1,6 +1,6 @@
 package com.mike.create_ore_excavation_plus.item;
 
-import com.mike.create_ore_excavation_plus.create_ore_excavation_plus;
+import com.mike.create_ore_excavation_plus.CreateOreExcavationPlus;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredHolder;
@@ -8,7 +8,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.createItems(create_ore_excavation_plus.MOD_ID);
+            DeferredRegister.createItems(CreateOreExcavationPlus.MOD_ID);
 
     public static final DeferredHolder<Item, Item> ultimate_drill = ITEMS.register("ultimate_drill",
             () -> new Item(new Item.Properties().stacksTo(1)));
